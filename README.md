@@ -1,0 +1,2 @@
+# hugo-callout
+Notion-style
