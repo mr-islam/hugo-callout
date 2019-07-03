@@ -3,8 +3,6 @@ Notion-style callouts for your hugo site!
 
 ![desktop screenshot](callout-desktop.png)
 
-![mobile screenshot](callout-mobile.png)
-
 Simply invoke the following shortcode in your `.md` Hugo content files to use these beautiful callouts:
 
 ```
